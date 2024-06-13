@@ -1,0 +1,17 @@
+ 
+ 
+--------------------------------------------------  
+ 
+
+lickdetected =
+
+     0
+
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\state_machine.m',38,1)">38  </a>    switch state
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+ Rset
+ 
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

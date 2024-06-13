@@ -1,0 +1,5 @@
+fullscreen3(background,4)
+pause(3)
+fullscreen3(s1,4)
+pause(3)
+closescreen()

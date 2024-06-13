@@ -1,0 +1,32265 @@
+ 
+ 
+--------------------------------------------------  
+ 
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+
+lickdetected =
+
+     0
+
+6.529 lckL 
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+7.298 lckL 
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+
+lickdetected =
+
+     1
+
+11.150 noise_stop 
+
+
+edit: 

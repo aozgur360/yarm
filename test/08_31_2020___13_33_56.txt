@@ -1,0 +1,24 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.490 lck_spout1 
+lickdetected
+{Error: <a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\display_control.m',164,1)">File: display_control.m Line: 164 Column: 1
+</a>Illegal use of reserved keyword "elseif".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('state_machine', 'C:\Users\LurLab\Desktop\yarm\DM\state_machine.m', 65)" style="font-weight:bold">state_machine</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\state_machine.m',65,0)">line 65</a>)
+                    str = display_control(app);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 227)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',227,0)">line 227</a>)
+state_machine(app);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 553)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',553,0)">line 553</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+opentoline('C:\Users\LurLab\Desktop\yarm\DM\display_control.m',164,1)
+[Warning: You are deleting one or more running timer objects.  MATLAB has automatically stopped them before
+deletion.] 

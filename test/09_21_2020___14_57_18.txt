@@ -1,0 +1,31 @@
+ 
+ 
+--------------------------------------------------  
+ 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 153)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',153,0)">line 153</a>)
+fprintf(arduino,'%c',['q' round(str2double(app.reward_pulse_C.Value))]);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 555)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',555,0)">line 555</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+appdesigner
+Decision_Making
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making')" style="font-weight:bold">Decision_Making</a>
+Error: <a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',834,5)">File: Decision_Making.mlapp Line: 834 Column: 5
+</a>Illegal use of reserved keyword "methods".
+} 
+
+
+
+Decision_Making
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making')" style="font-weight:bold">Decision_Making</a>
+Error: <a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',834,5)">File: Decision_Making.mlapp Line: 834 Column: 5
+</a>Illegal use of reserved keyword "methods".
+} 
+opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',834,5)

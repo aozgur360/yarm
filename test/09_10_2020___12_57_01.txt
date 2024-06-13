@@ -1,0 +1,90 @@
+ 
+ 
+--------------------------------------------------  
+ 
+4.037 lck_spout3 
+lickdetected
+stimL
+4.143 reward_spout3 
+8.708 lck_spout1 
+stimR
+8.877 reward_spout1 
+12.637 lck_spout3 
+stimR
+12.804 reward_spout3 
+17.234 lck_spout2 
+stimL
+17.399 reward_spout2 
+20.643 lck_spout3 
+stimL
+20.807 reward_spout3 
+24.889 lck_spout1 
+stimR
+25.056 reward_spout1 
+29.364 lck_spout3 
+stimL
+29.525 reward_spout3 
+34.383 lck_spout1 
+stimR
+34.656 reward_spout1 
+38.608 lck_spout3 
+stimL
+38.768 reward_spout3 
+42.942 lck_spout1 
+stimL
+43.113 reward_spout1 
+46.887 lck_spout2 
+stimL
+47.058 reward_spout2 
+50.646 lck_spout3 
+stimL
+50.908 reward_spout3 
+54.637 lck_spout1 
+stimL
+54.808 reward_spout1 
+58.650 lck_spout2 
+stimR
+58.815 reward_spout2 
+71.379 lck_spout3 
+stimR
+79.433 lck_spout3 
+79.998 lck_spout3 
+82.701 lck_spout2 
+stimL
+82.863 reward_spout2 
+87.248 lck_spout3 
+stimL
+87.407 reward_spout3 
+91.882 lck_spout1 
+stimL
+92.046 reward_spout1 
+95.934 lck_spout2 
+stimR
+96.100 reward_spout2 
+99.545 lck_spout1 
+stimR
+99.713 reward_spout1 
+102.792 lck_spout3 
+stimR
+102.951 reward_spout3 
+106.403 lck_spout2 
+stimR
+106.568 reward_spout2 
+110.487 lck_spout1 
+stimL
+110.650 reward_spout1 
+114.764 lck_spout2 
+stimR
+114.931 reward_spout2 
+118.433 lck_spout1 
+stimL
+118.701 reward_spout1 
+123.041 lck_spout2 
+stimL
+123.205 reward_spout2 
+126.122 lck_spout3 
+stimR
+126.281 reward_spout3 
+
+
+edit: 

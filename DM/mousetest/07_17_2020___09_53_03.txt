@@ -1,0 +1,12 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.375 lckL 
+lickdetected
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\to_state_1C.m',16,1)">16  </a>if lickdetected == 1
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

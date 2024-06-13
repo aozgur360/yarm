@@ -1,0 +1,27 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.410 lck_spout3 
+lickdetected
+
+stim_img =
+
+     0
+
+stimL
+9.757 lck_spout2 
+timeout punishment
+13.749 lck_spout3 
+14.749 lck_spout3 
+15.439 lck_spout3 
+lickdetected
+
+stim_img =
+
+     1
+
+stimR
+
+
+edit: 

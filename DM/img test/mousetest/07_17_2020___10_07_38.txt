@@ -1,0 +1,20 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.891 lckC 
+lickdetected
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\to_state_1C.m',21,1)">21  </a>if lickdetected == 1
+load imgwks.mat
+testingmultifullscreens
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fullscreen2', 'C:\Users\aozgu\Desktop\yarm\DM\img test\fullscreen2.m', 31)" style="font-weight:bold">fullscreen2</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\img test\fullscreen2.m',31,0)">line 31</a>)
+Image must have verticle resolution of 600
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('testingmultifullscreens', 'C:\Users\aozgu\Desktop\yarm\DM\img test\testingmultifullscreens.m', 5)" style="font-weight:bold">testingmultifullscreens</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\img test\testingmultifullscreens.m',5,0)">line 5</a>)
+fullscreen2(stimL,2);
+} 
+clear
+clear
+if system_dependent('IsDebugMode')==1, dbquit; end
+clear
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

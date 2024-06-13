@@ -1,0 +1,37 @@
+ 
+ 
+--------------------------------------------------  
+ 
+5.335 lck_spout3 
+lickdetected
+stimL
+5.390 reward_spout3 
+6.861 lck_spout2 
+stimR
+8.494 lck_spout1 
+stimL
+8.631 reward_spout1 
+10.064 lck_spout2 
+stimR
+10.206 reward_spout2 
+11.658 lck_spout1 
+stimR
+11.795 reward_spout1 
+18.839 lck_spout3 
+stimL
+18.984 reward_spout3 
+19.792 lck_spout2 
+stimR
+
+
+edit: {Undefined function or variable 'notestime'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 249)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',249,0)">line 249</a>)
+    fprintf('%4.3f  %s \n',notestime{i},char(notes(i)));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 553)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',553,0)">line 553</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+

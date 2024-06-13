@@ -1,0 +1,47 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.601 lck_spout3 
+lickdetected
+stimR
+9.047 lck_spout2 
+stimR
+9.223 reward_spout2 
+11.832 lck_spout1 
+stimR
+12.003 reward_spout1 
+19.270 lck_spout3 
+stimL
+19.432 reward_spout3 
+22.641 lck_spout1 
+stimR
+22.810 reward_spout1 
+28.743 lck_spout2 
+timeout punishment
+38.763 lck_spout3 
+lickdetected
+stimR
+40.292 lck_spout2 
+stimR
+40.452 reward_spout2 
+43.212 lck_spout1 
+stimL
+43.379 reward_spout1 
+48.019 lck_spout2 
+stimR
+48.192 reward_spout2 
+48.826 lck_spout2 
+49.801 lck_spout2 
+52.418 lck_spout1 
+stimR
+52.587 reward_spout1 
+53.016 lck_spout1 
+53.667 lck_spout1 
+55.589 lck_spout3 
+stimL
+55.748 reward_spout3 
+57.722 lck_spout3 
+
+
+edit: 

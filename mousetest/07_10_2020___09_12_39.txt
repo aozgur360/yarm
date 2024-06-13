@@ -1,0 +1,22 @@
+ 
+ 
+--------------------------------------------------  
+ 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('timer/getProperty', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m', 416)" style="font-weight:bold">timer/getProperty</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m',416,0)">line 416</a>)
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('timer/get.Running', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m', 377)" style="font-weight:bold">timer/get.Running</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m',377,0)">line 377</a>)
+            val = obj.getProperty('Running');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('timer/set.StartDelay', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m', 307)" style="font-weight:bold">timer/set.StartDelay</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\timer.m',307,0)">line 307</a>)
+            if (strcmp(obj.Running, 'on')) %The Java/C++ backend is guaranteed to be initialized,
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\aozgu\Desktop\yarm\DM\start_Callback.m', 181)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\start_Callback.m',181,0)">line 181</a>)
+rtimer.StartDelay = 2;
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp', 544)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp',544,0)">line 544</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 382)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',382,0)">line 382</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+

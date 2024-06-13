@@ -1,0 +1,52 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.966 lck_spout3 
+lickdetected
+stimR
+3.078 reward_spout3 
+6.684 lck_spout2 
+stimL
+6.857 reward_spout2 
+21.802 lck_spout3 
+stimR
+21.967 reward_spout3 
+30.691 lck_spout2 
+stimL
+30.963 reward_spout2 
+36.121 lck_spout3 
+stimR
+36.283 reward_spout3 
+40.489 lck_spout2 
+stimR
+40.656 reward_spout2 
+43.458 lck_spout3 
+stimL
+52.429 lck_spout1 
+stimL
+52.597 reward_spout1 
+54.529 lck_spout2 
+stimR
+54.697 reward_spout2 
+56.334 lck_spout1 
+stimL
+56.602 reward_spout1 
+58.211 lck_spout2 
+stimR
+58.378 reward_spout2 
+59.881 lck_spout1 
+stimR
+60.046 reward_spout1 
+61.610 lck_spout3 
+stimL
+61.777 reward_spout3 
+63.390 lck_spout1 
+stimR
+63.559 reward_spout1 
+65.309 lck_spout3 
+stimR
+65.470 reward_spout3 
+
+
+edit: 

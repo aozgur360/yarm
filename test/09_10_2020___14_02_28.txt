@@ -1,0 +1,138 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.010 lck_spout3 
+lickdetected
+stimR
+2.126 reward_spout3 
+6.250 lck_spout2 
+stimL
+6.428 reward_spout2 
+9.408 lck_spout3 
+stimL
+9.579 reward_spout3 
+12.655 lck_spout1 
+stimR
+12.833 reward_spout1 
+15.790 lck_spout3 
+stimL
+15.968 reward_spout3 
+18.783 lck_spout1 
+stimR
+18.958 reward_spout1 
+21.889 lck_spout3 
+stimR
+22.060 reward_spout3 
+25.550 lck_spout2 
+stimL
+25.718 reward_spout2 
+28.941 lck_spout3 
+stimL
+29.104 reward_spout3 
+32.336 lck_spout1 
+stimR
+32.516 reward_spout1 
+35.467 lck_spout3 
+stimR
+35.640 reward_spout3 
+38.989 lck_spout2 
+stimL
+39.313 reward_spout2 
+42.486 lck_spout3 
+stimL
+42.652 reward_spout3 
+45.788 lck_spout1 
+stimR
+45.967 reward_spout1 
+48.768 lck_spout3 
+stimL
+48.939 reward_spout3 
+52.498 lck_spout1 
+stimR
+52.675 reward_spout1 
+55.741 lck_spout3 
+stimR
+55.915 reward_spout3 
+59.629 lck_spout2 
+stimL
+59.799 reward_spout2 
+63.293 lck_spout3 
+stimR
+63.456 reward_spout3 
+67.971 lck_spout2 
+stimL
+68.144 reward_spout2 
+71.694 lck_spout3 
+stimL
+71.860 reward_spout3 
+74.883 lck_spout1 
+stimR
+75.056 reward_spout1 
+78.111 lck_spout3 
+stimL
+78.278 reward_spout3 
+81.088 lck_spout1 
+stimR
+81.263 reward_spout1 
+84.532 lck_spout3 
+stimL
+84.698 reward_spout3 
+88.157 lck_spout1 
+stimR
+88.328 reward_spout1 
+93.732 lck_spout3 
+stimL
+93.900 reward_spout3 
+97.597 lck_spout1 
+stimR
+97.773 reward_spout1 
+101.873 lck_spout3 
+stimL
+102.040 reward_spout3 
+105.505 lck_spout1 
+stimR
+105.678 reward_spout1 
+107.076 lck_spout3 
+stimR
+107.243 reward_spout3 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 232)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',232,0)">line 232</a>)
+fprintf(arduino,'%c','>');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 553)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',553,0)">line 553</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+Decision_Making
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.Figure/getId')" style="font-weight:bold">matlab.ui.Figure/getId</a>
+Invalid or deleted object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.internal.dialog.DialogHelper.getFigureID', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+internal\+dialog\DialogHelper.m', 8)" style="font-weight:bold">matlab.ui.internal.dialog.DialogHelper.getFigureID</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+internal\+dialog\DialogHelper.m',8,0)">line 8</a>)
+            out = f.getId();
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.internal.dialog.DialogHelper.validateUIfigure', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+internal\+dialog\DialogHelper.m', 21)" style="font-weight:bold">matlab.ui.internal.dialog.DialogHelper.validateUIfigure</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+internal\+dialog\DialogHelper.m',21,0)">line 21</a>)
+            id = matlab.ui.internal.dialog.DialogHelper.getFigureID(h);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.dialog.ProgressDialog', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+dialog\ProgressDialog.m', 45)" style="font-weight:bold">matlab.ui.dialog.ProgressDialog</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\+matlab\+ui\+dialog\ProgressDialog.m',45,0)">line 45</a>)
+            obj.FigureID = matlab.ui.internal.dialog.DialogHelper.validateUIfigure(f);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('uiprogressdlg', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\uiprogressdlg.m', 33)" style="font-weight:bold">uiprogressdlg</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uitools\uicomponents\components\uiprogressdlg.m',33,0)">line 33</a>)
+progressDialog = matlab.ui.dialog.ProgressDialog(hUIFigure, varargin{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('init', 'C:\Users\LurLab\Desktop\yarm\general\init.m', 28)" style="font-weight:bold">init</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\general\init.m',28,0)">line 28</a>)
+d = uiprogressdlg(app.figure1,'Title','Please Wait', 'Message','Opening the application');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/main_OpeningFcn', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 159)" style="font-weight:bold">Decision_Making/main_OpeningFcn</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',159,0)">line 159</a>)
+              init(app);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 1230)" style="font-weight:bold">Decision_Making</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',1230,0)">line 1230</a>)
+            runStartupFcn(app, @main_OpeningFcn)
+} 
+Decision_Making
+ Rset
+ 

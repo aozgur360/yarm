@@ -1,0 +1,32 @@
+ 
+ 
+--------------------------------------------------  
+ 
+1.840 lck_spout2 
+lickdetected
+1.855 reward_spout2 
+6.094 lck_spout3 
+6.163 reward_spout3 
+8.806 lck_spout1 
+11.049 lck_spout1 
+11.714 lck_spout1 
+12.232 lck_spout1 
+13.900 lck_spout2 
+15.732 lck_spout3 
+lickdetected
+27.085 lck_spout2 
+27.174 reward_spout2 
+33.450 lck_spout1 
+33.526 reward_spout1 
+39.975 lck_spout3 
+41.273 lck_spout2 
+41.973 lck_spout3 
+43.445 lck_spout1 
+46.329 lck_spout3 
+48.590 lck_spout3 
+lickdetected
+58.223 lck_spout3 
+66.508 noise_stop 
+
+
+edit: 

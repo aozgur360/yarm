@@ -1,0 +1,22 @@
+ 
+ 
+--------------------------------------------------  
+ 
+7.826 lckL 
+lickdetected
+7.842 reward_L 
+10.266 lckR 
+1 1/12.493 lckL 
+2 1/12.613 reward_L 
+14.571 lckR 
+1 1/15.844 lckL 
+2 1/<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\display_control.m',30,1)">30  </a>    if tempstim == 0
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+ Rset
+ 
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

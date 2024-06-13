@@ -1,0 +1,86 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.010 lck_spout1 
+lickdetected
+
+stim_img =
+
+     1
+
+stimR
+3.114 reward_spout1 
+5.017 lck_spout3 
+
+stim_img =
+
+     1
+
+stimR
+5.183 reward_spout3 
+7.571 lck_spout2 
+
+stim_img =
+
+     0
+
+stimL
+7.738 reward_spout2 
+9.927 lck_spout3 
+
+stim_img =
+
+     0
+
+stimL
+10.087 reward_spout3 
+12.118 lck_spout1 
+
+stim_img =
+
+     1
+
+stimR
+12.295 reward_spout1 
+15.416 lck_spout2 
+
+stim_img =
+
+     0
+
+stimL
+17.493 lck_spout1 
+
+stim_img =
+
+     1
+
+stimR
+19.427 lck_spout3 
+
+stim_img =
+
+     1
+
+stimR
+19.591 reward_spout3 
+21.708 lck_spout2 
+
+stim_img =
+
+     0
+
+stimL
+21.871 reward_spout2 
+23.991 lck_spout3 
+
+stim_img =
+
+     1
+
+stimR
+24.153 reward_spout3 
+
+
+edit: 

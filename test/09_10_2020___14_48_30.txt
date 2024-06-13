@@ -1,0 +1,77 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.118 lck_spout3 
+lickdetected
+stimR
+3.210 reward_spout3 
+5.415 lck_spout2 
+stimR
+5.584 reward_spout2 
+7.955 lck_spout1 
+stimL
+8.125 reward_spout1 
+13.047 lck_spout2 
+stimR
+13.219 reward_spout2 
+17.342 lck_spout1 
+stimR
+17.515 reward_spout1 
+21.429 lck_spout3 
+stimL
+21.594 reward_spout3 
+25.013 lck_spout1 
+stimL
+25.182 reward_spout1 
+29.845 lck_spout2 
+stimR
+30.018 reward_spout2 
+36.175 lck_spout1 
+stimL
+36.347 reward_spout1 
+40.201 lck_spout2 
+stimL
+40.493 reward_spout2 
+43.615 lck_spout3 
+stimR
+43.777 reward_spout3 
+47.362 lck_spout2 
+stimL
+47.527 reward_spout2 
+50.618 lck_spout3 
+stimR
+50.776 reward_spout3 
+54.005 lck_spout2 
+stimL
+54.171 reward_spout2 
+57.153 lck_spout3 
+stimR
+57.313 reward_spout3 
+58.553 lck_spout2 
+stimL
+58.716 reward_spout2 
+59.855 lck_spout3 
+stimR
+60.021 reward_spout3 
+61.344 lck_spout2 
+stimL
+61.506 reward_spout2 
+62.648 lck_spout3 
+stimL
+62.809 reward_spout3 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 232)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',232,0)">line 232</a>)
+fprintf(arduino,'%c','>');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 553)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',553,0)">line 553</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+Decision_Making
+ Rset
+ 

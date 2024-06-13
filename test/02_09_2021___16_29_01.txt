@@ -1,0 +1,68 @@
+ 
+ 
+--------------------------------------------------  
+ 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'Y:\Ali O\yarm_rig\yarm\DM\start_Callback.m', 153)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\DM\start_Callback.m',153,0)">line 153</a>)
+fprintf(arduino,'%c',['q' round(str2double(app.reward_pulse_C.Value))]);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 562)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',562,0)">line 562</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('reward_Callback', 'Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m', 15)" style="font-weight:bold">reward_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m',15,0)">line 15</a>)
+        fprintf(arduino,'%c','y'); %left
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/rewardL_Callback', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 334)" style="font-weight:bold">Decision_Making/rewardL_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',334,0)">line 334</a>)
+            reward_Callback(app,'L');
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('reward_Callback', 'Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m', 11)" style="font-weight:bold">reward_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m',11,0)">line 11</a>)
+        fprintf(arduino,'%c','x');  %right
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/rewardR_Callback', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 339)" style="font-weight:bold">Decision_Making/rewardR_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',339,0)">line 339</a>)
+            reward_Callback(app,'R');
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('serial/fprintf', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m', 156)" style="font-weight:bold">serial/fprintf</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\serial\@serial\fprintf.m',156,0)">line 156</a>)
+Unexpected error: Instrument object OBJ is an invalid object..
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('reward_Callback', 'Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m', 19)" style="font-weight:bold">reward_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\general\reward_Callback.m',19,0)">line 19</a>)
+        fprintf(arduino,'%c','z'); % center
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/rewardC_Callback', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 328)" style="font-weight:bold">Decision_Making/rewardC_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',328,0)">line 328</a>)
+            reward_Callback(app,'C');
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+Decision_Making
+{Index exceeds the number of array elements (10).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/loadState', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 121)" style="font-weight:bold">Decision_Making/loadState</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',121,0)">line 121</a>)
+               h(i).Value = state.checkboxes(i);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/main_OpeningFcn', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 162)" style="font-weight:bold">Decision_Making/main_OpeningFcn</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',162,0)">line 162</a>)
+              app.loadState('gui_settings.mat');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 1439)" style="font-weight:bold">Decision_Making</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',1439,0)">line 1439</a>)
+            runStartupFcn(app, @main_OpeningFcn)
+} 
+clc
+Decision_Making
+ Rset
+ 

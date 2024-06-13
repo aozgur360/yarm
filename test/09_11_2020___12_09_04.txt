@@ -1,0 +1,125 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.916 lck_spout3 
+lickdetected
+stimL
+3.016 reward_spout3 
+7.804 lck_spout1 
+stimR
+7.978 reward_spout1 
+11.691 lck_spout3 
+stimL
+11.859 reward_spout3 
+15.419 lck_spout1 
+stimL
+15.591 reward_spout1 
+18.847 lck_spout2 
+stimR
+19.024 reward_spout2 
+22.000 lck_spout1 
+stimR
+22.170 reward_spout1 
+25.560 lck_spout3 
+stimR
+25.730 reward_spout3 
+28.528 lck_spout2 
+stimL
+28.701 reward_spout2 
+31.843 lck_spout3 
+stimR
+32.005 reward_spout3 
+35.219 lck_spout2 
+stimR
+35.389 reward_spout2 
+38.405 lck_spout1 
+stimL
+38.575 reward_spout1 
+41.614 lck_spout2 
+stimR
+41.783 reward_spout2 
+45.076 lck_spout1 
+stimR
+45.245 reward_spout1 
+48.374 lck_spout3 
+stimL
+48.541 reward_spout3 
+51.435 lck_spout1 
+stimL
+51.604 reward_spout1 
+54.464 lck_spout2 
+stimL
+54.633 reward_spout2 
+57.351 lck_spout3 
+stimR
+57.518 reward_spout3 
+60.652 lck_spout2 
+stimL
+60.817 reward_spout2 
+64.312 lck_spout3 
+stimL
+64.472 reward_spout3 
+67.736 lck_spout1 
+stimR
+67.907 reward_spout1 
+70.675 lck_spout3 
+stimL
+70.841 reward_spout3 
+73.645 lck_spout1 
+stimL
+73.818 reward_spout1 
+76.609 lck_spout2 
+stimL
+76.779 reward_spout2 
+79.832 lck_spout3 
+stimR
+79.993 reward_spout3 
+82.980 lck_spout2 
+stimL
+83.144 reward_spout2 
+86.003 lck_spout3 
+stimR
+86.162 reward_spout3 
+89.436 lck_spout2 
+stimR
+89.603 reward_spout2 
+92.832 lck_spout1 
+stimR
+93.001 reward_spout1 
+95.957 lck_spout3 
+stimL
+96.129 reward_spout3 
+99.151 lck_spout1 
+stimL
+99.319 reward_spout1 
+102.322 lck_spout2 
+stimR
+102.492 reward_spout2 
+105.348 lck_spout1 
+stimR
+105.519 reward_spout1 
+108.496 lck_spout3 
+stimR
+108.658 reward_spout3 
+111.590 lck_spout2 
+stimL
+111.753 reward_spout2 
+113.298 lck_spout3 
+stimL
+113.463 reward_spout3 
+116.342 lck_spout1 
+stimR
+116.513 reward_spout1 
+119.454 lck_spout3 
+stimL
+119.619 reward_spout3 
+122.433 lck_spout1 
+stimR
+122.598 reward_spout1 
+125.687 lck_spout3 
+stimR
+125.853 reward_spout3 
+
+
+edit: 

@@ -1,0 +1,28 @@
+ 
+ 
+--------------------------------------------------  
+ 
+4.980 lck_spout1 
+lickdetected
+stimnew
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('audioread', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\audioread.m', 90)" style="font-weight:bold">audioread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\audiovideo\audioread.m',90,0)">line 90</a>)
+The filename specified was not found in the MATLAB path.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('display_control', 'Y:\Ali O\yarm_rig\yarm\DM\display_control.m', 220)" style="font-weight:bold">display_control</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\DM\display_control.m',220,0)">line 220</a>)
+            [y,Fs] = audioread('125hz.wav');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('state_machine', 'Y:\Ali O\yarm_rig\yarm\DM\state_machine.m', 74)" style="font-weight:bold">state_machine</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\DM\state_machine.m',74,0)">line 74</a>)
+                    str = display_control(app);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'Y:\Ali O\yarm_rig\yarm\DM\start_Callback.m', 227)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\DM\start_Callback.m',227,0)">line 227</a>)
+state_machine(app);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp', 562)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('Y:\Ali O\yarm_rig\yarm\Decision_Making.mlapp',562,0)">line 562</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+clc
+[Warning: You are deleting one or more running timer objects.  MATLAB has automatically stopped
+them before deletion.] 

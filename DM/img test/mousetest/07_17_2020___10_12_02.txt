@@ -1,0 +1,22 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.490 lckC 
+lickdetected
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\to_state_1C.m',21,1)">21  </a>if lickdetected == 1
+if system_dependent('IsDebugMode')==1, dbcont; end
+24.372 reward_C 
+169.683 lckL 
+172.629 lckR 
+173.231 lckR 
+174.293 lckC 
+174.831 lckC 
+187.558 lckC 
+188.306 lckC 
+190.311 lckR 
+190.912 lckR 
+193.048 noise_stop 
+
+
+edit: 

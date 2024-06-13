@@ -1,0 +1,29 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.865 lckC 
+lickdetected
+2.885 reward_C 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'C:\Users\aozgu\Desktop\yarm\img test.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/AllBackgroundButtonPushed', 'C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp', 785)" style="font-weight:bold">Decision_Making/AllBackgroundButtonPushed</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp',785,0)">line 785</a>)
+            load('C:\Users\aozgu\Desktop\yarm\img test.mat');
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 382)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',382,0)">line 382</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'C:\Users\aozgu\Desktop\yarm\img test.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/AllBackgroundButtonPushed', 'C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp', 785)" style="font-weight:bold">Decision_Making/AllBackgroundButtonPushed</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp',785,0)">line 785</a>)
+            load('C:\Users\aozgu\Desktop\yarm\img test\imgwks.mat');
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 382)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',382,0)">line 382</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+107.738 noise_stop 
+
+
+edit: 

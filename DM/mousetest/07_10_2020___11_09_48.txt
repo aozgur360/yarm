@@ -1,0 +1,16 @@
+ 
+ 
+--------------------------------------------------  
+ 
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\start_Callback.m',227,1)">227 </a>state_machine(app);
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+ Rset
+ 
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

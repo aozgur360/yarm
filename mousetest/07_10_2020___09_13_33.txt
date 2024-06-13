@@ -1,0 +1,18 @@
+ 
+ 
+--------------------------------------------------  
+ 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('timer/start', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\start.m', 109)" style="font-weight:bold">timer/start</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\iofun\@timer\start.m',109,0)">line 109</a>)
+Invalid timer object. This object has been deleted and should be removed from your workspace using CLEAR.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\aozgu\Desktop\yarm\DM\start_Callback.m', 206)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\start_Callback.m',206,0)">line 206</a>)
+start(rtimer);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp', 544)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\Decision_Making.mlapp',544,0)">line 544</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 382)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2020a\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',382,0)">line 382</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+ Rset
+ 

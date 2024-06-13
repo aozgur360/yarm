@@ -1,0 +1,219 @@
+ 
+ 
+--------------------------------------------------  
+ 
+5.251 lck_spout3 
+lickdetected
+stimR
+5.298 reward_spout3 
+6.164 lck_spout2 
+stimR
+6.306 reward_spout2 
+7.158 lck_spout1 
+stimL
+7.300 reward_spout1 
+8.415 lck_spout2 
+stimL
+8.557 reward_spout2 
+18.383 lck_spout2 
+18.909 lck_spout2 
+20.130 lck_spout1 
+stimL
+20.921 lck_spout2 
+stimR
+21.060 reward_spout2 
+21.889 lck_spout1 
+stimL
+22.028 reward_spout1 
+
+
+edit: {Undefined function or variable 'notestime'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 249)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',249,0)">line 249</a>)
+    fprintf('%4.3f  %s \n',notestime{i},char(notes(i)));
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 553)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',553,0)">line 553</a>)
+            start_Callback(app);
+} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Error while evaluating Button PrivateButtonPushedFcn.
+
+622.241 reward_spout2 
+622.471 reward_spout2 
+622.895 reward_spout2 
+623.075 reward_spout2 
+623.263 reward_spout2 
+623.726 reward_spout2 
+623.991 reward_spout2 
+624.351 reward_spout2 
+624.567 reward_spout2 
+624.735 reward_spout2 
+624.903 reward_spout2 
+625.062 reward_spout2 
+625.239 reward_spout2 
+625.439 reward_spout2 
+626.991 reward_spout2 
+627.232 reward_spout2 
+627.415 reward_spout2 
+627.966 reward_spout2 
+628.175 reward_spout2 
+628.383 reward_spout2 
+628.647 reward_spout2 
+628.847 reward_spout2 
+629.111 reward_spout2 
+629.519 reward_spout2 
+629.686 reward_spout2 
+629.847 reward_spout2 
+630.015 reward_spout2 
+630.167 reward_spout2 
+634.504 reward_spout3 
+634.831 reward_spout3 
+635.207 reward_spout3 
+635.415 reward_spout3 
+635.615 reward_spout3 
+635.783 reward_spout3 
+635.934 reward_spout3 
+636.103 reward_spout3 
+636.375 reward_spout3 
+636.527 reward_spout3 
+636.695 reward_spout3 
+636.847 reward_spout3 
+636.999 reward_spout3 
+637.142 reward_spout3 
+637.302 reward_spout3 
+637.479 reward_spout3 
+637.640 reward_spout3 
+638.062 reward_spout3 
+638.215 reward_spout3 
+638.742 reward_spout3 
+638.927 reward_spout3 
+639.111 reward_spout3 
+639.279 reward_spout3 
+639.431 reward_spout3 
+639.583 reward_spout3 
+639.742 reward_spout3 
+639.919 reward_spout3 
+640.079 reward_spout3 
+640.270 reward_spout3 
+640.455 reward_spout3 
+640.663 reward_spout3 
+640.847 reward_spout3 
+641.015 reward_spout3 
+641.183 reward_spout3 
+641.336 reward_spout3 
+641.511 reward_spout3 
+641.679 reward_spout3 
+641.855 reward_spout3 
+642.279 reward_spout3 
+642.415 reward_spout3 
+642.591 reward_spout3 
+642.758 reward_spout3 
+642.927 reward_spout3 
+643.070 reward_spout3 
+643.230 reward_spout3 
+643.383 reward_spout3 
+643.551 reward_spout3 
+643.719 reward_spout3 
+644.055 reward_spout3 
+644.231 reward_spout3 
+644.407 reward_spout3 
+644.607 reward_spout3 
+644.774 reward_spout3 
+644.991 reward_spout3 
+645.519 reward_spout3 
+645.879 reward_spout3 
+646.095 reward_spout3 
+646.287 reward_spout3 
+646.479 reward_spout3 
+646.871 reward_spout3 
+647.150 reward_spout3 
+647.575 reward_spout3 
+648.167 reward_spout3 
+648.342 reward_spout3 
+648.519 reward_spout3 
+648.703 reward_spout3 
+648.871 reward_spout3 
+649.047 reward_spout3 
+649.231 reward_spout3 
+649.815 reward_spout3 
+650.015 reward_spout3 
+650.200 reward_spout3 
+650.679 reward_spout3 
+650.879 reward_spout3 
+651.063 reward_spout3 
+651.246 reward_spout3 
+651.439 reward_spout3 
+651.639 reward_spout3 
+651.839 reward_spout3 
+652.015 reward_spout3 
+652.191 reward_spout3 
+652.359 reward_spout3 
+652.535 reward_spout3 
+652.759 reward_spout3 
+653.279 reward_spout3 
+653.446 reward_spout3 
+653.615 reward_spout3 
+653.790 reward_spout3 
+653.950 reward_spout3 
+654.142 reward_spout3 
+654.359 reward_spout3 
+654.591 reward_spout3 
+654.807 reward_spout3 
+655.246 reward_spout3 
+655.423 reward_spout3 
+655.607 reward_spout3 
+655.791 reward_spout3 
+655.974 reward_spout3 
+656.207 reward_spout3 
+656.519 reward_spout3 
+656.696 reward_spout3 
+656.856 reward_spout3 
+657.023 reward_spout3 
+657.199 reward_spout3 
+657.375 reward_spout3 
+657.599 reward_spout3 
+659.199 reward_spout3 
+659.431 reward_spout3 
+659.656 reward_spout3 
+659.846 reward_spout3 
+660.015 reward_spout3 
+660.191 reward_spout3 
+660.359 reward_spout3 
+660.535 reward_spout3 
+660.710 reward_spout3 
+660.887 reward_spout3 
+661.054 reward_spout3 
+661.222 reward_spout3 
+661.383 reward_spout3 
+661.551 reward_spout3 
+661.711 reward_spout3 
+661.871 reward_spout3 
+662.055 reward_spout3 
+662.590 reward_spout3 
+662.751 reward_spout3 
+662.926 reward_spout3 
+663.111 reward_spout3 
+663.527 reward_spout3 
+663.694 reward_spout3 
+663.879 reward_spout3 
+664.055 reward_spout3 
+664.247 reward_spout3 
+664.431 reward_spout3 
+664.895 reward_spout3 
+665.071 reward_spout3 
+665.255 reward_spout3 
+667.487 reward_spout3 
+667.831 reward_spout3 
+668.118 reward_spout3 
+668.351 reward_spout3 
+668.687 reward_spout3 
+670.263 reward_spout3 
+670.479 reward_spout3 
+670.839 reward_spout3 
+671.294 reward_spout3 
+671.535 reward_spout3 
+671.791 reward_spout3 
+672.502 reward_spout3 
+673.423 reward_spout3 
+673.599 reward_spout3 
+673.775 reward_spout3 

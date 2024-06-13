@@ -1,0 +1,21 @@
+ 
+ 
+--------------------------------------------------  
+ 
+4.579 lckL 
+lickdetected
+4.595 reward_L 
+5.089 lckL 
+6.214 lckR 
+1 0/6.280 reward_R 
+7.214 lckL 
+2 0/8.468 lckR 
+1 0/8.539 reward_R 
+9.957 lckC 
+2 0/10.036 reward_C 
+11.706 lckR 
+3 0/12.518 lckL 
+2 0/15.166 noise_stop 
+
+
+edit: 

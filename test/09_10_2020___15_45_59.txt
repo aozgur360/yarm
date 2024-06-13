@@ -1,0 +1,26 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.139 lck_spout3 
+lickdetected
+sameside
+     0
+
+stimR
+2.230 reward_spout3 
+4.888 lck_spout2 
+sameside
+     1
+
+stimR
+5.054 reward_spout2 
+7.724 lck_spout1 
+sameside
+     0
+
+stimR
+7.896 reward_spout1 
+
+
+edit: 

@@ -1,0 +1,16 @@
+ 
+ 
+--------------------------------------------------  
+ 
+2.001 start_of_new_trial
+2.001 spout_C 
+2.002 spouts_11_11   
+3.005 spouts_16_11   
+3.763 to_state_1
+9.205 lckR 
+12.235 noise_stop 
+12.286 spouts_0_0   
+12.290 light off 0 -------   lightval = 1    vlpair  = 0  5
+
+
+edit: 

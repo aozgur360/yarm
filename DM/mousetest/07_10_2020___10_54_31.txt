@@ -1,0 +1,11 @@
+ 
+ 
+--------------------------------------------------  
+ 
+[Warning: The BytesAvailableFcn is being disabled. To enable the callback property
+either connect to the hardware with FOPEN or set the BytesAvailableFcn property.
+] 
+26.024 noise_stop 
+
+
+edit: 

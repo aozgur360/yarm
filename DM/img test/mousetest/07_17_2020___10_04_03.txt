@@ -1,0 +1,12 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.596 lckL 
+lickdetected
+<a href="matlab: opentoline('C:\Users\aozgu\Desktop\yarm\DM\to_state_1C.m',21,1)">21  </a>if lickdetected == 1
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbquit all; end
+testingmultifullscreens
+[Warning: You are deleting one or more running timer objects. MATLAB has automatically stopped them before deletion.] 

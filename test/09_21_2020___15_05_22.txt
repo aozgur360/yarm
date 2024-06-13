@@ -1,0 +1,79 @@
+ 
+ 
+--------------------------------------------------  
+ 
+3.485 lck_spout3 
+lickdetected
+stimR
+10.871 lck_spout2 
+stimR
+11.049 reward_spout2 
+42.010 lck_spout2 
+46.762 lck_spout2 
+49.815 lck_spout1 
+stimR
+49.994 reward_spout1 
+51.111 lck_spout3 
+stimL
+51.265 reward_spout3 
+57.693 lck_spout1 
+stimL
+57.848 reward_spout1 
+59.372 lck_spout2 
+stimL
+59.529 reward_spout2 
+60.887 lck_spout3 
+stimR
+61.033 reward_spout3 
+63.221 lck_spout2 
+stimR
+63.378 reward_spout2 
+64.803 lck_spout1 
+stimL
+64.951 reward_spout1 
+66.305 lck_spout2 
+stimR
+66.454 reward_spout2 
+67.649 lck_spout1 
+stimR
+67.797 reward_spout1 
+68.845 lck_spout3 
+stimL
+68.990 reward_spout3 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('state_machine', 'C:\Users\LurLab\Desktop\yarm\DM\state_machine.m', 51)" style="font-weight:bold">state_machine</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\state_machine.m',51,0)">line 51</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('start_Callback', 'C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m', 227)" style="font-weight:bold">start_Callback</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\DM\start_Callback.m',227,0)">line 227</a>)
+state_machine(app);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Decision_Making/startButtonPushed', 'C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp', 555)" style="font-weight:bold">Decision_Making/startButtonPushed</a> (<a href="matlab: opentoline('C:\Users\LurLab\Desktop\yarm\Decision_Making.mlapp',555,0)">line 555</a>)
+            start_Callback(app);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appdesigner.internal.service.AppManagementService/tryCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\appdesigner\appdesigner\runtime\+appdesigner\+internal\+service\AppManagementService.m', 330)" style="font-weight:bold">appdesigner.internal.service.AppManagementService/tryCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\appdesigner\appdesigner\runtime\+appdesigner\+internal\+service\AppManagementService.m',330,0)">line 330</a>)
+                    callback(app, event);
+
+In
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event)')" style="font-weight:bold">matlab.apps.AppBase>@(source,event)tryCallback(appdesigner.internal.service.AppManagementService.instance(),app,callback,requiresEventData,event)</a>} 
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.ui.control.internal.controller.ComponentController/executeUserCallback', 'C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m', 335)" style="font-weight:bold">matlab.ui.control.internal.controller.ComponentController/executeUserCallback</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2018b\toolbox\matlab\uicomponents\uicomponents\+matlab\+ui\+control\+internal\+controller\ComponentController.m',335,0)">line 335</a>)
+Interrupt while evaluating DestroyedObject PrivateButtonPushedFcn.
+
+
+
+
+Decision_Making - Copy
+ Rset
+ 
+{Undefined function or variable 'Copy'.
+} 
+Decision_Making - Copy
+ Rset
+ 
+{Undefined function or variable 'Copy'.
+} 
+
+
+
+Decision_Making
+ Rset
+ 
+[Warning: You are deleting one or more running timer objects.  MATLAB has automatically stopped them before deletion.] 
